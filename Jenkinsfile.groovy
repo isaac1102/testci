@@ -1,1 +1,1 @@
-mvn package
+echo "This is Jenkinsfile."
